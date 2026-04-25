@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hogie45
-- 👀 I’m interested in Learning AWS and coding in general
-- 🌱 I’m currently learning Relational Databases
-- 💞️ I’m looking to collaborate on AWS
+- 👀 I’m interested in Learning AWS, Coding, self-hosting, and microcontrollers.
+- 🌱 I’m currently learning DevOps
+- 💞️ I’m looking for Volunteer/Freelance/Internship for experience.
 - 📫 How to reach me Hogie45@gmail.com
 
 <!---
